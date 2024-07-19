@@ -70,5 +70,4 @@ public class FacultyGryffindor extends Hogwarts{
         }
 
     }
-
 }

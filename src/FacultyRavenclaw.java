@@ -68,7 +68,6 @@ public class FacultyRavenclaw extends Hogwarts {
         } else {
             System.out.println(this.getName() + " лучший Когтевранец, чем " + that.getName());
         }
-
     }
 
 

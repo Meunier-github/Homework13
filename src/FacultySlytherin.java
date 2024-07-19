@@ -78,7 +78,6 @@ public class FacultySlytherin extends Hogwarts {
         } else {
             System.out.println(this.getName() + " лучший Слизеринец, чем " + that.getName());
         }
-
     }
 
 }

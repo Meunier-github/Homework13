@@ -58,5 +58,4 @@ public class FacultyHufflepuff extends Hogwarts {
         }
 
     }
-
 }
